@@ -7,22 +7,28 @@
 
 # Data Questions
 Is there a correlation between carbon emissions and the current climate change? 
+
 What are the leading causes for carbon emissions? 
+
 What country is most responsible for carbon emissions? 
 
 
 # Data Sources
-Land and sea temperatures: 	https://data.giss.nasa.gov/gistemp/
+Land and sea temperatures: 	
+https://data.giss.nasa.gov/gistemp/
 
 
-Level of co2 in Atmosphere:	https://climatedataguide.ucar.edu/climate-data/overview-carbon-dioxide-co2-data-sets
+Level of co2 in Atmosphere:	
+https://climatedataguide.ucar.edu/climate-data/overview-carbon-dioxide-co2-data-sets
 
 
-Natural disasters:		https://ourworldindata.org/natural-disasters
+Natural disasters:		
+https://ourworldindata.org/natural-disasters
 
 
-Countries emissions levels: 	https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions	
-				https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+Countries emissions levels: 	
+https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions	
+https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
 
 
 Break down of emissions:
