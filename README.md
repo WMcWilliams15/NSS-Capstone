@@ -27,11 +27,11 @@ Break down of emissions:
 
 
 # Tableau links:
-temp-https://public.tableau.com/profile/will.mcwilliams#!/vizhome/Global_temp_anomalies/Before_1950?publish=yes
-nd-https://public.tableau.com/profile/will.mcwilliams#!/vizhome/Natural_Disasters1900-present/After_1950?publish=yes
-top_5-https://public.tableau.com/profile/will.mcwilliams#!/vizhome/ContinentsTop3Emitters/Rank_of_Continents?publish=yes
-per_cap-https://public.tableau.com/profile/will.mcwilliams#!/vizhome/PerCapitaEmissions_15921789183100/World_Per_Cap?publish=yes
-totals-https://public.tableau.com/profile/will.mcwilliams#!/vizhome/TotalEmissions_15921646670270/Africa_Totals?publish=yes
+Global Temperature Anomalies - public.tableau.com/profile/will.mcwilliams#!/vizhome/Global_temp_anomalies/Before_1950?publish=yes
+Natural Disasters - public.tableau.com/profile/will.mcwilliams#!/vizhome/Natural_Disasters1900-present/After_1950?publish=yes
+Top Five Emitters - public.tableau.com/profile/will.mcwilliams#!/vizhome/ContinentsTop3Emitters/Rank_of_Continents?publish=yes
+Emissions Per Capita - public.tableau.com/profile/will.mcwilliams#!/vizhome/PerCapitaEmissions_15921789183100/World_Per_Cap?publish=yes
+Total Emissionns - public.tableau.com/profile/will.mcwilliams#!/vizhome/TotalEmissions_15921646670270/Africa_Totals?publish=yes
 
 
 This is a link to an article with an interesting approach to use data to explain the mechanics of how carbon emissions impact climate science.
