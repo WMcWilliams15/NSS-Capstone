@@ -1,0 +1,408 @@
+,Entity,Year,Number of reported natural disasters (reported disasters)
+120,Drought,1900,2
+121,Drought,1903,1
+122,Drought,1906,1
+123,Drought,1910,9
+124,Drought,1919,1
+125,Drought,1920,2
+126,Drought,1921,1
+127,Drought,1928,1
+128,Drought,1931,1
+129,Drought,1933,1
+130,Drought,1940,9
+131,Drought,1942,1
+132,Drought,1943,1
+133,Drought,1946,1
+134,Drought,1947,1
+135,Drought,1960,1
+136,Drought,1961,1
+137,Drought,1963,1
+138,Drought,1964,7
+139,Drought,1965,7
+140,Drought,1966,9
+141,Drought,1967,5
+142,Drought,1968,7
+143,Drought,1969,10
+144,Drought,1970,2
+145,Drought,1971,7
+146,Drought,1972,7
+147,Drought,1973,2
+148,Drought,1974,4
+149,Drought,1975,1
+150,Drought,1976,6
+151,Drought,1977,16
+152,Drought,1978,9
+153,Drought,1979,11
+154,Drought,1980,14
+155,Drought,1981,13
+156,Drought,1982,13
+157,Drought,1983,32
+158,Drought,1984,8
+159,Drought,1985,3
+160,Drought,1986,4
+161,Drought,1987,15
+162,Drought,1988,17
+163,Drought,1989,7
+164,Drought,1990,12
+165,Drought,1991,18
+166,Drought,1992,12
+167,Drought,1993,9
+168,Drought,1994,13
+169,Drought,1995,6
+170,Drought,1996,6
+171,Drought,1997,18
+172,Drought,1998,20
+173,Drought,1999,23
+174,Drought,2000,27
+175,Drought,2001,22
+176,Drought,2002,25
+177,Drought,2003,14
+178,Drought,2004,11
+179,Drought,2005,20
+180,Drought,2006,9
+181,Drought,2007,11
+182,Drought,2008,16
+183,Drought,2009,18
+184,Drought,2010,17
+185,Drought,2011,17
+186,Drought,2012,21
+187,Drought,2013,9
+188,Drought,2014,18
+189,Drought,2015,28
+190,Drought,2016,15
+191,Drought,2017,7
+192,Drought,2018,13
+193,Drought,2019,15
+310,Extreme temperature,1936,2
+311,Extreme temperature,1951,2
+312,Extreme temperature,1953,3
+313,Extreme temperature,1955,1
+314,Extreme temperature,1958,2
+315,Extreme temperature,1961,1
+316,Extreme temperature,1962,1
+317,Extreme temperature,1963,2
+318,Extreme temperature,1965,1
+319,Extreme temperature,1966,2
+320,Extreme temperature,1968,2
+321,Extreme temperature,1971,1
+322,Extreme temperature,1972,2
+323,Extreme temperature,1973,3
+324,Extreme temperature,1975,3
+325,Extreme temperature,1977,1
+326,Extreme temperature,1978,1
+327,Extreme temperature,1979,4
+328,Extreme temperature,1980,3
+329,Extreme temperature,1981,2
+330,Extreme temperature,1982,3
+331,Extreme temperature,1983,2
+332,Extreme temperature,1984,1
+333,Extreme temperature,1985,8
+334,Extreme temperature,1986,2
+335,Extreme temperature,1987,6
+336,Extreme temperature,1988,6
+337,Extreme temperature,1989,5
+338,Extreme temperature,1990,13
+339,Extreme temperature,1991,8
+340,Extreme temperature,1992,7
+341,Extreme temperature,1993,4
+342,Extreme temperature,1994,9
+343,Extreme temperature,1995,13
+344,Extreme temperature,1996,5
+345,Extreme temperature,1997,13
+346,Extreme temperature,1998,12
+347,Extreme temperature,1999,8
+348,Extreme temperature,2000,31
+349,Extreme temperature,2001,23
+350,Extreme temperature,2002,15
+351,Extreme temperature,2003,25
+352,Extreme temperature,2004,16
+353,Extreme temperature,2005,30
+354,Extreme temperature,2006,24
+355,Extreme temperature,2007,25
+356,Extreme temperature,2008,10
+357,Extreme temperature,2009,25
+358,Extreme temperature,2010,29
+359,Extreme temperature,2011,16
+360,Extreme temperature,2012,51
+361,Extreme temperature,2013,14
+362,Extreme temperature,2014,17
+363,Extreme temperature,2015,12
+364,Extreme temperature,2016,12
+365,Extreme temperature,2017,11
+366,Extreme temperature,2018,25
+367,Extreme temperature,2019,20
+368,Extreme weather,1900,1
+369,Extreme weather,1902,1
+370,Extreme weather,1903,2
+371,Extreme weather,1904,1
+372,Extreme weather,1905,1
+373,Extreme weather,1906,3
+374,Extreme weather,1909,5
+375,Extreme weather,1910,1
+376,Extreme weather,1911,2
+377,Extreme weather,1912,5
+378,Extreme weather,1913,1
+379,Extreme weather,1914,1
+380,Extreme weather,1915,2
+381,Extreme weather,1916,1
+382,Extreme weather,1917,2
+383,Extreme weather,1918,1
+384,Extreme weather,1919,2
+385,Extreme weather,1920,1
+386,Extreme weather,1922,2
+387,Extreme weather,1923,6
+388,Extreme weather,1924,2
+389,Extreme weather,1925,3
+390,Extreme weather,1926,7
+391,Extreme weather,1927,4
+392,Extreme weather,1928,7
+393,Extreme weather,1929,2
+394,Extreme weather,1930,4
+395,Extreme weather,1931,4
+396,Extreme weather,1932,5
+397,Extreme weather,1933,3
+398,Extreme weather,1934,4
+399,Extreme weather,1935,7
+400,Extreme weather,1936,5
+401,Extreme weather,1937,3
+402,Extreme weather,1938,2
+403,Extreme weather,1939,2
+404,Extreme weather,1940,3
+405,Extreme weather,1941,2
+406,Extreme weather,1942,3
+407,Extreme weather,1943,3
+408,Extreme weather,1944,5
+409,Extreme weather,1945,7
+410,Extreme weather,1946,5
+411,Extreme weather,1947,7
+412,Extreme weather,1948,10
+413,Extreme weather,1949,8
+414,Extreme weather,1950,7
+415,Extreme weather,1951,11
+416,Extreme weather,1952,10
+417,Extreme weather,1953,11
+418,Extreme weather,1954,10
+419,Extreme weather,1955,19
+420,Extreme weather,1956,14
+421,Extreme weather,1957,9
+422,Extreme weather,1958,13
+423,Extreme weather,1959,16
+424,Extreme weather,1960,20
+425,Extreme weather,1961,14
+426,Extreme weather,1962,13
+427,Extreme weather,1963,21
+428,Extreme weather,1964,22
+429,Extreme weather,1965,19
+430,Extreme weather,1966,28
+431,Extreme weather,1967,25
+432,Extreme weather,1968,25
+433,Extreme weather,1969,25
+434,Extreme weather,1970,24
+435,Extreme weather,1971,22
+436,Extreme weather,1972,26
+437,Extreme weather,1973,22
+438,Extreme weather,1974,28
+439,Extreme weather,1975,28
+440,Extreme weather,1976,36
+441,Extreme weather,1977,32
+442,Extreme weather,1978,42
+443,Extreme weather,1979,31
+444,Extreme weather,1980,42
+445,Extreme weather,1981,50
+446,Extreme weather,1982,52
+447,Extreme weather,1983,59
+448,Extreme weather,1984,57
+449,Extreme weather,1985,51
+450,Extreme weather,1986,56
+451,Extreme weather,1987,58
+452,Extreme weather,1988,60
+453,Extreme weather,1989,73
+454,Extreme weather,1990,137
+455,Extreme weather,1991,66
+456,Extreme weather,1992,76
+457,Extreme weather,1993,108
+458,Extreme weather,1994,81
+459,Extreme weather,1995,81
+460,Extreme weather,1996,77
+461,Extreme weather,1997,79
+462,Extreme weather,1998,88
+463,Extreme weather,1999,106
+464,Extreme weather,2000,102
+465,Extreme weather,2001,105
+466,Extreme weather,2002,122
+467,Extreme weather,2003,86
+468,Extreme weather,2004,124
+469,Extreme weather,2005,130
+470,Extreme weather,2006,76
+471,Extreme weather,2007,105
+472,Extreme weather,2008,111
+473,Extreme weather,2009,87
+474,Extreme weather,2010,94
+475,Extreme weather,2011,84
+476,Extreme weather,2012,90
+477,Extreme weather,2013,105
+478,Extreme weather,2014,99
+479,Extreme weather,2015,118
+480,Extreme weather,2016,84
+481,Extreme weather,2017,85
+482,Extreme weather,2018,84
+483,Extreme weather,2019,85
+484,Flood,1900,1
+485,Flood,1903,2
+486,Flood,1906,2
+487,Flood,1909,1
+488,Flood,1910,1
+489,Flood,1911,1
+490,Flood,1915,1
+491,Flood,1917,1
+492,Flood,1920,1
+493,Flood,1925,1
+494,Flood,1926,4
+495,Flood,1927,2
+496,Flood,1928,2
+497,Flood,1930,1
+498,Flood,1931,1
+499,Flood,1933,2
+500,Flood,1935,1
+501,Flood,1936,1
+502,Flood,1937,2
+503,Flood,1938,2
+504,Flood,1939,2
+505,Flood,1940,1
+506,Flood,1943,2
+507,Flood,1947,1
+508,Flood,1948,5
+509,Flood,1949,2
+510,Flood,1950,10
+511,Flood,1951,7
+512,Flood,1952,4
+513,Flood,1953,12
+514,Flood,1954,9
+515,Flood,1955,3
+516,Flood,1956,9
+517,Flood,1957,11
+518,Flood,1958,3
+519,Flood,1959,13
+520,Flood,1960,7
+521,Flood,1961,8
+522,Flood,1962,8
+523,Flood,1963,8
+524,Flood,1964,22
+525,Flood,1965,19
+526,Flood,1966,23
+527,Flood,1967,26
+528,Flood,1968,20
+529,Flood,1969,14
+530,Flood,1970,31
+531,Flood,1971,15
+532,Flood,1972,15
+533,Flood,1973,20
+534,Flood,1974,19
+535,Flood,1975,17
+536,Flood,1976,17
+537,Flood,1977,48
+538,Flood,1978,47
+539,Flood,1979,34
+540,Flood,1980,39
+541,Flood,1981,43
+542,Flood,1982,48
+543,Flood,1983,49
+544,Flood,1984,47
+545,Flood,1985,58
+546,Flood,1986,50
+547,Flood,1987,68
+548,Flood,1988,76
+549,Flood,1989,46
+550,Flood,1990,60
+551,Flood,1991,77
+552,Flood,1992,59
+553,Flood,1993,84
+554,Flood,1994,88
+555,Flood,1995,94
+556,Flood,1996,92
+557,Flood,1997,95
+558,Flood,1998,94
+559,Flood,1999,122
+560,Flood,2000,157
+561,Flood,2001,157
+562,Flood,2002,172
+563,Flood,2003,158
+564,Flood,2004,128
+565,Flood,2005,193
+566,Flood,2006,226
+567,Flood,2007,218
+568,Flood,2008,165
+569,Flood,2009,151
+570,Flood,2010,184
+571,Flood,2011,156
+572,Flood,2012,136
+573,Flood,2013,149
+574,Flood,2014,135
+575,Flood,2015,160
+576,Flood,2016,161
+577,Flood,2017,114
+578,Flood,2018,109
+579,Flood,2019,170
+774,Wildfire,1911,1
+775,Wildfire,1918,1
+776,Wildfire,1922,1
+777,Wildfire,1929,1
+778,Wildfire,1939,1
+779,Wildfire,1944,2
+780,Wildfire,1947,1
+781,Wildfire,1949,1
+782,Wildfire,1956,1
+783,Wildfire,1965,1
+784,Wildfire,1966,1
+785,Wildfire,1967,2
+786,Wildfire,1968,3
+787,Wildfire,1969,2
+788,Wildfire,1970,3
+789,Wildfire,1971,2
+790,Wildfire,1972,3
+791,Wildfire,1973,3
+792,Wildfire,1974,3
+793,Wildfire,1975,2
+794,Wildfire,1976,1
+795,Wildfire,1977,2
+796,Wildfire,1978,3
+797,Wildfire,1979,4
+798,Wildfire,1980,4
+799,Wildfire,1981,4
+800,Wildfire,1982,3
+801,Wildfire,1983,12
+802,Wildfire,1984,7
+803,Wildfire,1985,13
+804,Wildfire,1986,6
+805,Wildfire,1987,8
+806,Wildfire,1989,3
+807,Wildfire,1990,4
+808,Wildfire,1991,8
+809,Wildfire,1992,8
+810,Wildfire,1993,2
+811,Wildfire,1994,13
+812,Wildfire,1995,7
+813,Wildfire,1996,5
+814,Wildfire,1997,16
+815,Wildfire,1998,18
+816,Wildfire,1999,22
+817,Wildfire,2000,30
+818,Wildfire,2001,14
+819,Wildfire,2002,22
+820,Wildfire,2003,14
+821,Wildfire,2004,8
+822,Wildfire,2005,13
+823,Wildfire,2006,9
+824,Wildfire,2007,18
+825,Wildfire,2008,5
+826,Wildfire,2009,9
+827,Wildfire,2010,7
+828,Wildfire,2011,8
+829,Wildfire,2012,6
+830,Wildfire,2013,10
+831,Wildfire,2014,4
+832,Wildfire,2015,12
+833,Wildfire,2016,10
+834,Wildfire,2017,13
+835,Wildfire,2018,10
+836,Wildfire,2019,13
