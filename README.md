@@ -28,9 +28,13 @@ Break down of emissions:
 
 # Tableau links:
 Global Temperature Anomalies - public.tableau.com/profile/will.mcwilliams#!/vizhome/Global_temp_anomalies/Before_1950?publish=yes
+
 Natural Disasters - public.tableau.com/profile/will.mcwilliams#!/vizhome/Natural_Disasters1900-present/After_1950?publish=yes
+
 Top Five Emitters - public.tableau.com/profile/will.mcwilliams#!/vizhome/ContinentsTop3Emitters/Rank_of_Continents?publish=yes
+
 Emissions Per Capita - public.tableau.com/profile/will.mcwilliams#!/vizhome/PerCapitaEmissions_15921789183100/World_Per_Cap?publish=yes
+
 Total Emissionns - public.tableau.com/profile/will.mcwilliams#!/vizhome/TotalEmissions_15921646670270/Africa_Totals?publish=yes
 
 
