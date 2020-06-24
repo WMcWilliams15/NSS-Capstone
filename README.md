@@ -22,7 +22,6 @@ Natural disasters:		https://ourworldindata.org/natural-disasters
 
 
 Countries emissions levels: 	https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions	
-
 				https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
 
 
