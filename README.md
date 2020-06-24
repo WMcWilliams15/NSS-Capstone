@@ -39,5 +39,5 @@ Total Emissionns - public.tableau.com/profile/will.mcwilliams#!/vizhome/TotalEmi
 
 
 This is a link to an article with an interesting approach to use data to explain the mechanics of how carbon emissions impact climate science.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4174912/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4174912/ 
 
